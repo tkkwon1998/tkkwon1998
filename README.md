@@ -2,7 +2,7 @@
 
 - currently building [@Plex_Official](https://twitter.com/Plex_Official) and contributing [@Canto_Public](https://twitter.com/CantoPublic)
 
-- previous quant trader @DV_trading, @IMC_trading
+- prev. quant trader
 
 - 🐦: [@kt_nowk](https://twitter.com/kt_nowk)
 
