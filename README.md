@@ -1,4 +1,13 @@
-### Hi there 👋
+## ✨ Plex is hiring. Please reach out if interested in web3, defi, trading or generally just building cool stuff. 
+
+- currently building [@Plex_Official](https://twitter.com/Plex_Official) and contributing [@Canto_Public](https://twitter.com/CantoPublic)
+
+- previous quant trader @DV_trading, @IMC_trading
+
+- 🐦: [@kt_nowk](https://twitter.com/kt_nowk)
+
+- 📫: tk@plex.engineer
+
 
 <!--
 **tkkwon1998/tkkwon1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
