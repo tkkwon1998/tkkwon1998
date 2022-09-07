@@ -1,12 +1,6 @@
-## ✨ Plex is hiring. Please reach out if interested in web3, defi, trading or generally just building cool stuff. 
+- [@kt_nowk](https://twitter.com/kt_nowk)
 
-- currently building [@Plex_Official](https://twitter.com/Plex_Official) and contributing [@Canto_Public](https://twitter.com/CantoPublic)
-
-- prev. quant trader
-
-- 🐦: [@kt_nowk](https://twitter.com/kt_nowk)
-
-- 📫: tk@plex.engineer
+- tk@plex.engineer
 
 
 <!--
