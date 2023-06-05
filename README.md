@@ -1,8 +1,4 @@
-- [@kt_nowk](https://twitter.com/kt_nowk)
-
-- tk@plex.engineer
-
-
+- 🐦 [@kt_nowk](https://twitter.com/kt_nowk)
 <!--
 **tkkwon1998/tkkwon1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
